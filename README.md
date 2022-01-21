@@ -8,6 +8,7 @@
 ## •	Visualization
 
 
+![dashboard](https://user-images.githubusercontent.com/74211933/150449524-fbb9fa4f-9286-4b24-8f20-46a0f127f4d4.PNG)
   
 ![newplot (16)](https://user-images.githubusercontent.com/74211933/150437831-85060083-3b97-4dac-92ab-68b68ba0e7e2.png)
 
